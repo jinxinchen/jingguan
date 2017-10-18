@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:mysql://localhost:3306/jg_teachers</property>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.current_session_context_class">thread</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">root</property>
+        <!--<mapping resource="com/jingguan/system/po/TUsersEntity.hbm.xml"/>-->
+        <mapping class="com.jingguan.system.po.TUsersEntity"/>
+        <mapping class="com.jingguan.system.po.TModulesEntity"/>
+        <mapping class="com.jingguan.system.po.TRoleModulesEntity"/>
+        <mapping class="com.jingguan.system.po.TRolesEntity"/>
+        <mapping class="com.jingguan.system.po.TUsersRoleEntity"/>
+        <mapping class="com.jingguan.system.po.VUserModulesEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TTeacherBaseinfoEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TAbilityProjectEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TAbroadsEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TArticleEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TEducateDegreeEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TEducateScientificEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TEducationExperienceEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TFunctionsEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TGraduateSchoolEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TModulesEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TMoreLanguageEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TRoleFunctionsEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TRoleModulesEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TRolesEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TScientificEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TUsersEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.TUsersRoleEntity"/>
+        <mapping class="com.jingguan.baseInfo.po.VUserModulesEntity"/>
+
+
+        <!-- DB schema will be updated if needed -->
+        <!-- <property name="hbm2ddl.auto">update</property> -->
+    </session-factory>
+</hibernate-configuration>
