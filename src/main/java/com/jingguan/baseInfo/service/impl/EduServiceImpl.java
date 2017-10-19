@@ -43,9 +43,9 @@ public class EduServiceImpl implements EduService {
     }
 
     @Override
-    public int editEduExp(Integer user_id, String school, String major, String education, Integer graduationYear) {
+    public int editEduExp(int id,Integer user_id, String school, String major, String education, Integer graduationYear) {
 
-        return editEduExpDao.editEduExp(user_id,school,major,education,graduationYear);
+        return editEduExpDao.editEduExp(id,user_id,school,major,education,graduationYear);
     }
 
     @Override

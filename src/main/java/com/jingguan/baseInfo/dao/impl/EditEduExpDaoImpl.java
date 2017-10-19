@@ -14,11 +14,12 @@ import org.springframework.stereotype.Repository;
 public class EditEduExpDaoImpl extends BaseDao implements EditEduExpDao {
 
     @Override
-    public int editEduExp(Integer user_id, String school, String major, String education, Integer graduationYear) {
+    public int editEduExp(int id, Integer user_id, String school, String major, String education, Integer graduationYear) {
         Session session = getCurrentSession();
         Transaction transaction = session.beginTransaction();
 
         TEducationExperienceEntity tEducationExperienceEntity = new TEducationExperienceEntity();
+        tEducationExperienceEntity.setId(id);
         tEducationExperienceEntity.setSchool(school);
         tEducationExperienceEntity.setMajor(major);
         tEducationExperienceEntity.setEducation(education);

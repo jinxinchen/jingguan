@@ -21,6 +21,7 @@ public class DeleteEduExpDaoImpl extends BaseDao implements DeleteEduExpDao{
         try{
             TEducationExperienceEntity tEducationExperienceEntity =session.load(TEducationExperienceEntity.class,id);
             session.delete(tEducationExperienceEntity);
+            transaction.commit();
             return 200;
         }catch (Exception e){
             transaction.rollback();

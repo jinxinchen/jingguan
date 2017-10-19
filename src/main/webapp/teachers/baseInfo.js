@@ -41,7 +41,7 @@ function loadBaseInfo() {
 
 function loadEduExp(){
 	var saveUrl = "/"+projectName+"/education/addEduExp.do";
-    var deleteUrl = "#";
+    var deleteUrl = "/"+projectName+"/education/deleteEduExp.do";
     var updateUrl = "/"+projectName+"/education/editEduExp.do";
     var loadDataUrl = "/"+projectName+"/education/loadEduExp.do";
 	$.jgrid.defaults.styleUI = 'Bootstrap';
@@ -247,6 +247,7 @@ function loadEduExp(){
         //delete按钮选项
         url: deleteUrl,  //delete对应接口
         afterSubmit : function(response, postdata) {
+            console.log(response)
             var result = response.responseJSON.success;
             return [result,'fail to delete！',postdata.id];
         }

@@ -55,10 +55,10 @@ public class EduController {
 
     @RequestMapping("editEduExp")
     @ResponseBody
-    Map editEduExp(HttpServletRequest request, String school, String major, String education, Integer graduationYear){
+    Map editEduExp(HttpServletRequest request,int id, String school, String major, String education, Integer graduationYear){
         Map map = new HashMap();
         int user_id = (int)request.getSession().getAttribute("user_id");
-        int status = eduService.editEduExp(user_id,school,major,education,graduationYear);
+        int status = eduService.editEduExp(id,user_id,school,major,education,graduationYear);
         if(status == 200){
             map.put("status",200);
             return map;
@@ -70,16 +70,15 @@ public class EduController {
 
     @RequestMapping("deleteEduExp")
     @ResponseBody
-    Map deleteEduExp(HttpServletRequest request, Integer id){
-        Map map = new HashMap();
+    List deleteEduExp(HttpServletRequest request, int id){
+        List list = new ArrayList();
         int user_id = (int)request.getSession().getAttribute("user_id");
+//        System.out.println("id==="+id);
         int status = eduService.deleteEduExp(id);
         if(status == 200){
-            map.put("status",200);
-            return map;
-        }else{
-            map.put("status",199);
-            return map;
+            list.add(1);
+            return list;
         }
+        return null;
     }
 }

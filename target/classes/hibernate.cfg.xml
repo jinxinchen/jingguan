@@ -4,7 +4,7 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
-        <property name="connection.url">jdbc:mysql://localhost:3306/jg_teachers</property>
+        <property name="connection.url">jdbc:mysql://123.207.24.123:3306/jg_teachers</property>
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
         <property name="hibernate.current_session_context_class">thread</property>
         <property name="connection.username">root</property>

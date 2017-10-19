@@ -11,6 +11,6 @@ import java.util.Map;
 public interface EduService {
     List<TEducationExperienceEntity> loadEduExp(int user_id);
     int addEduExp(Integer user_id, String school, String major, String education, Integer graduationYear);
-    int editEduExp(Integer user_id, String school, String major, String education, Integer graduationYear);
+    int editEduExp(int id,Integer user_id, String school, String major, String education, Integer graduationYear);
     int deleteEduExp(Integer id);
 }
