@@ -22,8 +22,6 @@ public class ModuleDaoImpl extends BaseDao implements ModuleDao{
         Session session = getCurrentSession();
         Transaction transaction=session.beginTransaction();
         List<VUserModulesEntity> modules = session.createCriteria(VUserModulesEntity.class).add(Restrictions.eq("user_id",user_id)).list();
-        System.out.println(modules.get(0).getModuleUrl().toString());
-
         return modules;
     }
 }

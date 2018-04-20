@@ -21,8 +21,8 @@ public class GetBaseInfoDaoImpl extends BaseDao implements GetBaseInfoDao {
         Session session=getCurrentSession();
         Transaction transaction=session.beginTransaction();
 
-        List<TTeacherBaseinfoEntity> baseInfo = session.createCriteria(TTeacherBaseinfoEntity.class).add(Restrictions.eq("user_id",user_id)).list();
-
+        List<TTeacherBaseinfoEntity> baseInfo = session.createCriteria(TTeacherBaseinfoEntity.class).add(Restrictions.eq("userId",user_id)).list();
+//        System.out.println("info = " + baseInfo.size());
         return baseInfo;
     }
 }

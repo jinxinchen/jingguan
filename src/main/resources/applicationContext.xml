@@ -19,6 +19,13 @@
         <property name="startPrivilege" value="false"/>
     </bean>
 
+
+    <!--表单提交含文件，表单提交的是request payload-->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="UTF-8"></property>
+        <property name="maxInMemorySize" value="10240000"></property>
+    </bean>
+
     <!--<bean class="com.jingguan.system.filter.PrivilegeManageFilter" id="privilegeManageFilter"></bean>-->
 
     <!--<bean class="com.hqu.utils.FileUtils">-->
@@ -29,4 +36,5 @@
     <!--<context:component-scan base-package="com.jingguan.*.dao.impl, com.jingguan.*.service.impl"/>-->
 
     <aop:aspectj-autoproxy/>
+
 </beans>

@@ -21,7 +21,7 @@ public class VUserModulesEntity {
     private String moduleUrl;
     private Integer moduleStatus;
 
-    @Basic
+    @Id
     @Column(name = "module_id")
     public Integer getModuleId() {
         return moduleId;
@@ -31,7 +31,7 @@ public class VUserModulesEntity {
         this.moduleId = moduleId;
     }
 
-    @Id
+    @Basic
     @Column(name = "user_id")
     public Integer getUser_id() {
         return user_id;

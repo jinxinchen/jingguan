@@ -22,7 +22,7 @@ public class UserController {
     @ResponseBody
     public String getUserAccount(HttpServletRequest request, String account, String password){
         int res = userService.login(account,password);
-        if(res == 1){
+        if(res != 0){
             request.getSession().setAttribute("user_id",res);
             return "success";
         }else{
@@ -41,7 +41,7 @@ public class UserController {
         }catch (Exception e){
             e.printStackTrace();
         }
-        System.out.println(account);
+//        System.out.println(account);
         return account;
     }
 }

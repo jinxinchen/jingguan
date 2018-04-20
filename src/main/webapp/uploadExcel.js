@@ -9,7 +9,7 @@ function upload() {
     $.ajax({
         type:"post",
         data:formData,
-        url:'/teachers/uploadExcel.do',
+        url:'/teachers/technology/inTechnology.do',
         processData: false,
         async: true,
         contentType: false,

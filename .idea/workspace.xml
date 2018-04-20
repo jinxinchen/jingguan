@@ -27,7 +27,7 @@
         <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" value="jg_teachers@localhost" />
+        <option name="myItemId" value="jg_teachers@127.0.0.1" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
@@ -35,110 +35,151 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="EduController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/EduController.java">
+      <file leaf-file-name="abilityProject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/abilityProject.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="1729">
+              <caret line="91" column="21" lean-forward="false" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1524101982111" expanded="true" signature="7423:7429" ph="&amp;nbsp;" />
+                <marker date="1524101982111" expanded="true" signature="7429:7435" ph="&amp;nbsp;" />
+                <marker date="1524101982111" expanded="true" signature="7915:7921" ph="&amp;nbsp;" />
+                <marker date="1524101982111" expanded="true" signature="7921:7927" ph="&amp;nbsp;" />
+                <marker date="1524101982111" expanded="true" signature="12656:12675" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="12804:12817" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="12936:12968" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="13230:13261" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="15778:15797" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="15926:15939" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="16032:16064" ph="..." />
+                <marker date="1524101982111" expanded="true" signature="16326:16357" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EduServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/EduServiceImpl.java">
+      <file leaf-file-name="sciencePrize.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/sciencePrize.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="4769">
+              <caret line="251" column="23" lean-forward="false" selection-start-line="251" selection-start-column="23" selection-end-line="253" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1524098913831" expanded="true" signature="6422:6428" ph="&amp;nbsp;" />
+                <marker date="1524098913831" expanded="true" signature="6428:6434" ph="&amp;nbsp;" />
+                <marker date="1524098913831" expanded="true" signature="6901:6907" ph="&amp;nbsp;" />
+                <marker date="1524098913831" expanded="true" signature="6907:6913" ph="&amp;nbsp;" />
+                <marker date="1524098913831" expanded="true" signature="11921:11940" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="12069:12082" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="12175:12207" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="12469:12500" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="14568:14587" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="14716:14729" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="14822:14854" ph="..." />
+                <marker date="1524098913831" expanded="true" signature="15116:15147" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddEduExpDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/AddEduExpDao.java">
+      <file leaf-file-name="project.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/project.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3230">
+              <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+              <folding>
+                <marker date="1524187976382" expanded="true" signature="7714:7720" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="7720:7726" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="8436:8442" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="8442:8448" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="9058:9064" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="9064:9070" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="10343:10349" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="10349:10355" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="10953:10959" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="10959:10965" ph="&amp;nbsp;" />
+                <marker date="1524187976382" expanded="true" signature="24258:24277" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="24406:24419" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="24512:24544" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="24806:24837" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="25657:25676" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="25805:25818" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="25911:25943" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="26205:26236" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="29583:29602" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="29731:29744" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="29837:29869" ph="..." />
+                <marker date="1524187976382" expanded="true" signature="30131:30162" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TScientificEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/po/TScientificEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1257">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VProjectUserEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/po/VProjectUserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VProjectEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/po/VProjectEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="120" column="10" lean-forward="false" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VProjectEntityDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/dao/impl/VProjectEntityDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="89" lean-forward="false" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hibernate.cfg.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+      <file leaf-file-name="VProjectEntityDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/dao/VProjectEntityDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="67" lean-forward="false" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+            <state relative-caret-position="171">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EditEduExpDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/EditEduExpDao.java">
+      <file leaf-file-name="TScientificEntityDaoImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/dao/impl/TScientificEntityDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="-761">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddEduExpDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/AddEduExpDaoImpl.java">
+      <file leaf-file-name="ProjectServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/service/impl/ProjectServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
+            <state relative-caret-position="16">
+              <caret line="136" column="39" lean-forward="false" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="baseInfo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="249" column="32" lean-forward="false" selection-start-line="249" selection-start-column="32" selection-end-line="249" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DeleteEduExpDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/DeleteEduExpDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="21" column="117" lean-forward="false" selection-start-line="21" selection-start-column="117" selection-end-line="21" selection-end-column="117" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EduService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/EduService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EditEduExpDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/EditEduExpDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="20" column="82" lean-forward="false" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -148,26 +189,68 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="hibernate-configuration-5.0" />
         <option value="hibernate-main-5.0" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>dispa</find>
-      <find>dispatcher</find>
-      <find>userId</find>
-      <find>user_id</find>
-      <find>serId</find>
+      <find>row.id</find>
+      <find>org.springframework.web.multipart.commons.CommonsMultipartResolver</find>
+      <find>educateTime</find>
+      <find>updatedegreeInfo</find>
+      <find>addFormModel</find>
+      <find>createDate</find>
+      <find>modelContent</find>
+      <find>remote</find>
+      <find>uploadActivity</find>
+      <find>requestArticleUpload</find>
+      <find>requestCopyRightUpload</find>
+      <find>tScientificResearchMaterialsList</find>
+      <find>tScientificResearchMaterials_wrapper</find>
+      <find>VTeachersActivityCheckEntity</find>
+      <find>teacher_name</find>
+      <find>saveFile</find>
+      <find>periods</find>
+      <find>getUserIdAndId</find>
+      <find>127</find>
+      <find>all</find>
+      <find>uploadSever</find>
+      <find>downloadCopyRightExcel</find>
+      <find>Articlecondition</find>
+      <find>aler</find>
+      <find>ScienceProject</find>
+      <find>window</find>
+      <find>inScienceProject</find>
+      <find>saveScienceProjectFile</find>
+      <find>grants</find>
+      <find>rant</find>
     </findStrings>
     <replaceStrings>
-      <replace>user_id</replace>
       <replace>ser_id</replace>
+      <replace>ward_na</replace>
+      <replace>award_m</replace>
+      <replace>d_w</replace>
+      <replace>ss</replace>
+      <replace>d_l</replace>
+      <replace>d_t</replace>
+      <replace>awardTime</replace>
+      <replace>atClass</replace>
+      <replace>er_id</replace>
+      <replace>educate_time</replace>
+      <replace>educate_degreerc</replace>
+      <replace>is_tutor</replace>
+      <replace>educate_degree_name</replace>
+      <replace>for_class</replace>
+      <replace>publication_id</replace>
+      <replace>postTime</replace>
+      <replace>use_id</replace>
+      <replace>user_id</replace>
     </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -178,57 +261,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/getBaseInfoDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/baseInfoService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/baseInfoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/common/dao/impl/BaseDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/getBaseInfoDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/mvc-dispatcher-servlet.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/login.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/impl/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/ModuleDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/service/ModuleService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/service/impl/ModuleServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/po/VUserModulesEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/impl/ModuleDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/system/controller/ModuleController.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/po/TTeacherBaseinfoEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.html" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/eduController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/eduDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/eduService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/eduDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/EduDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/eduServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/baseInfoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/article/dao/impl/ArticleDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/article/po/TArticleEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/project.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/scientificResearchMaterials.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/teachingMaterials.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/teachingUnknowMaterials.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/admin_tech.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/addAccounts.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/admin_teacher_account.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/common/dao/impl/UserDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/BaseInfoController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/BaseInfoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/GetBaseInfoDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/po/VUserModulesEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/base.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/EduDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/AddEduExpDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/po/TEducationExperienceEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/AddEduExpImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/editEduExpImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/editEduExpDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/editEduExpDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/DeleteEduExpDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/degree/controller/DegreeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/article/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/abilityProject/controller/AbilityProjectController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/manageTeachers/service/ManageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/manageTeachers/controller/ManageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/manageTeachers/dao/impl/ManageDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/manageTeachers/service/impl/ManageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.html" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/AddEduExpDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/EduService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/EditEduExpDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/EditEduExpDaoImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/EduServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/DeleteEduExpDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/degree.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/teachingMaterials.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/uploadExcel/controller/test2.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.js" />
-        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/EduController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/degree.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivity/service/impl/TeacherActivityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivityCheck/po/VTeachersActivityCheckEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/admin_article.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/admin_article.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/teacherActivityCheck.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/teacherActivityCheck.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/sciencePrizeCheck.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/sciencePrizeCheck.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/admin_abilityProject.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/admin_abilityProject.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/service/impl/ProjectCheckServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/projectCheck.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin/projectCheck.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/po/TScientificEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/project/service/impl/ProjectServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/project/po/TScientificEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/project/controller/ProjectController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/schedule.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/article.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/teacherActivity.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/sciencePrize.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/abilityProject.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teachers/project.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jingguan/project/po/VProjectEntity.java" />
       </list>
     </option>
   </component>
@@ -237,6 +320,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
@@ -286,8 +376,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1370" />
-    <option name="height" value="772" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -304,6 +395,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -316,342 +410,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="teachers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jingguan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="baseInfo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teachers_files" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -662,32 +427,40 @@
     <property name="js-jscs-nodeInterpreter" value="D:\nj\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="JPA.DatabaseSchemaImportDialog" value="de4c1b01-9219-410a-b806-5119fedb7019" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="ea6b5249-1664-44bc-a620-1b3c93091bd3" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/javaProject/jingguan/src/main/webapp/teachers/article.html" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\javaProject\jingguan\src\main\webapp" />
-      <recent name="E:\javaProject\jingguan\src\main\java\com\jingguan\common" />
-      <recent name="E:\javaProject\jingguan\src\main\webapp\WEB-INF" />
-      <recent name="E:\javaProject\jingguan\src\main\resources" />
+      <recent name="E:\javaProject\jingguan123\jingguan\src\main\webapp\admin" />
+      <recent name="E:\javaProject\jingguan123\jingguan\src\main\java\com\jingguan\teacherMaterials\po" />
+      <recent name="E:\javaProject\jingguan123\jingguan\src\main\java\com\jingguan" />
+      <recent name="E:\javaProject\jingguan123\jingguan\src\main\java\com\jingguan\projectCheck\service\impl" />
+      <recent name="E:\javaProject\jingguan123\jingguan\src\main\java\com\jingguan\project\service\impl" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.jingguan.baseInfo.service" />
       <recent name="com.jingguan.baseInfo.dao" />
     </key>
     <key name="ImportMappingsDialog.RecentPackages">
-      <recent name="com.jingguan.baseInfo.po" />
-      <recent name="com.jingguan.system.po" />
+      <recent name="com.jingguan.teacherActivityCheck.po" />
+      <recent name="com.jingguan.admin.po" />
       <recent name="" />
+      <recent name="com.jingguan.common.po" />
+      <recent name="com.jingguan.changePwd.po" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jingguan.teachingMaterialsInAdmin.dao" />
+      <recent name="com.jingguan.teachingMaterialsInAdmin.service" />
       <recent name="com.jingguan.common" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaProject\jingguan\src\main\webapp\fileTemplates" />
+      <recent name="E:\javaProject\jingguan\src\main\webapp\common\TableExport" />
       <recent name="E:\javaProject\jingguan\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.teachers">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -1101,6 +874,82 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="false" name="teachers" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jingguan:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_teachers" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64843" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jingguan:war" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.teachers" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1142,24 +991,194 @@
       <workItem from="1508311023241" duration="3961000" />
       <workItem from="1508328269415" duration="4837000" />
       <workItem from="1508381961142" duration="2502000" />
+      <workItem from="1508423859498" duration="1182000" />
+      <workItem from="1508469372930" duration="4471000" />
+      <workItem from="1508509689880" duration="3747000" />
+      <workItem from="1508573948924" duration="1144000" />
+      <workItem from="1508637652079" duration="10114000" />
+      <workItem from="1508653004491" duration="2730000" />
+      <workItem from="1508743329384" duration="6695000" />
+      <workItem from="1508751210440" duration="4576000" />
+      <workItem from="1508759889593" duration="11139000" />
+      <workItem from="1508772072400" duration="322000" />
+      <workItem from="1508894496390" duration="4734000" />
+      <workItem from="1508918621025" duration="10591000" />
+      <workItem from="1509076976028" duration="5600000" />
+      <workItem from="1509120638602" duration="1617000" />
+      <workItem from="1509155175011" duration="14042000" />
+      <workItem from="1509176884589" duration="207000" />
+      <workItem from="1509180673659" duration="595000" />
+      <workItem from="1509193479947" duration="6913000" />
+      <workItem from="1509259457404" duration="7064000" />
+      <workItem from="1509287409891" duration="2809000" />
+      <workItem from="1509504642727" duration="12245000" />
+      <workItem from="1509855102900" duration="595000" />
+      <workItem from="1509860952137" duration="3443000" />
+      <workItem from="1509943358152" duration="1677000" />
+      <workItem from="1509965255052" duration="1385000" />
+      <workItem from="1510017622152" duration="853000" />
+      <workItem from="1510036431103" duration="4970000" />
+      <workItem from="1510107331144" duration="3273000" />
+      <workItem from="1510111339068" duration="1159000" />
+      <workItem from="1510191358975" duration="1658000" />
+      <workItem from="1510234009906" duration="3792000" />
+      <workItem from="1510295694627" duration="10077000" />
+      <workItem from="1510380405060" duration="14552000" />
+      <workItem from="1510472549453" duration="6007000" />
+      <workItem from="1510485759951" duration="6585000" />
+      <workItem from="1510581644661" duration="3816000" />
+      <workItem from="1510621468164" duration="1726000" />
+      <workItem from="1510643862418" duration="6533000" />
+      <workItem from="1510659722708" duration="5628000" />
+      <workItem from="1510730210487" duration="6994000" />
+      <workItem from="1510744351376" duration="6637000" />
+      <workItem from="1510797119448" duration="9933000" />
+      <workItem from="1510906374668" duration="1725000" />
+      <workItem from="1510923148269" duration="1175000" />
+      <workItem from="1510969174728" duration="8820000" />
+      <workItem from="1510985217704" duration="7236000" />
+      <workItem from="1511085400962" duration="9152000" />
+      <workItem from="1511178951818" duration="10057000" />
+      <workItem from="1511336942504" duration="1779000" />
+      <workItem from="1511406490102" duration="11943000" />
+      <workItem from="1511490056485" duration="682000" />
+      <workItem from="1511504666532" duration="453000" />
+      <workItem from="1511600567918" duration="664000" />
+      <workItem from="1512056493275" duration="472000" />
+      <workItem from="1512384372652" duration="1586000" />
+      <workItem from="1512459779870" duration="3446000" />
+      <workItem from="1512484283650" duration="2837000" />
+      <workItem from="1512615683814" duration="3831000" />
+      <workItem from="1512658026640" duration="3036000" />
+      <workItem from="1512695607095" duration="4829000" />
+      <workItem from="1512717741401" duration="7548000" />
+      <workItem from="1512733549606" duration="9392000" />
+      <workItem from="1512777502379" duration="1572000" />
+      <workItem from="1512820134328" duration="3840000" />
+      <workItem from="1512824278564" duration="7585000" />
+      <workItem from="1512870437317" duration="4311000" />
+      <workItem from="1512875054921" duration="3162000" />
+      <workItem from="1512891891844" duration="12844000" />
+      <workItem from="1512915741798" duration="2500000" />
+      <workItem from="1512968427487" duration="1783000" />
+      <workItem from="1513054105102" duration="4001000" />
+      <workItem from="1513066067028" duration="11732000" />
+      <workItem from="1513150399459" duration="5958000" />
+      <workItem from="1513176364755" duration="5017000" />
+      <workItem from="1513214829626" duration="7417000" />
+      <workItem from="1513306750297" duration="553000" />
+      <workItem from="1513316140156" duration="8358000" />
+      <workItem from="1513491706560" duration="6209000" />
+      <workItem from="1513513249410" duration="6763000" />
+      <workItem from="1513596567047" duration="11526000" />
+      <workItem from="1513683745361" duration="12258000" />
+      <workItem from="1513736808236" duration="4986000" />
+      <workItem from="1513751385488" duration="2741000" />
+      <workItem from="1513852005136" duration="188000" />
+      <workItem from="1513995386002" duration="6430000" />
+      <workItem from="1514031684726" duration="5476000" />
+      <workItem from="1514082011486" duration="4335000" />
+      <workItem from="1514287953187" duration="462000" />
+      <workItem from="1514288855458" duration="592000" />
+      <workItem from="1514606882670" duration="25000" />
+      <workItem from="1514730787209" duration="5658000" />
+      <workItem from="1514773127342" duration="26157000" />
+      <workItem from="1514904689047" duration="649000" />
+      <workItem from="1517385697380" duration="589000" />
+      <workItem from="1517488684101" duration="6167000" />
+      <workItem from="1517540266396" duration="6771000" />
+      <workItem from="1517707710230" duration="6730000" />
+      <workItem from="1517799925931" duration="3424000" />
+      <workItem from="1517904092529" duration="2329000" />
+      <workItem from="1517917867378" duration="5279000" />
+      <workItem from="1517970390854" duration="42000" />
+      <workItem from="1517972261349" duration="1202000" />
+      <workItem from="1518160303008" duration="34000" />
+      <workItem from="1518352164289" duration="7210000" />
+      <workItem from="1518434770633" duration="2764000" />
+      <workItem from="1518509179023" duration="24000" />
+      <workItem from="1518851496835" duration="1857000" />
+      <workItem from="1519007414408" duration="10397000" />
+      <workItem from="1519177243580" duration="1449000" />
+      <workItem from="1519263804177" duration="1785000" />
+      <workItem from="1519369063422" duration="934000" />
+      <workItem from="1519388331396" duration="1465000" />
+      <workItem from="1519439868302" duration="3092000" />
+      <workItem from="1519535769483" duration="61000" />
+      <workItem from="1519536396609" duration="3895000" />
+      <workItem from="1519559891308" duration="4699000" />
+      <workItem from="1519643704334" duration="84000" />
+      <workItem from="1519649613151" duration="2329000" />
+      <workItem from="1519697891678" duration="76000" />
+      <workItem from="1519700833461" duration="103000" />
+      <workItem from="1519713329537" duration="6191000" />
+      <workItem from="1519824130132" duration="1279000" />
+      <workItem from="1519871380854" duration="51000" />
+      <workItem from="1519877138166" duration="31000" />
+      <workItem from="1519989196204" duration="96000" />
+      <workItem from="1520215244093" duration="164000" />
+      <workItem from="1520316057364" duration="5302000" />
+      <workItem from="1520389307107" duration="11162000" />
+      <workItem from="1520477833153" duration="3075000" />
+      <workItem from="1520486134551" duration="2997000" />
+      <workItem from="1520512508200" duration="926000" />
+      <workItem from="1520583492728" duration="1179000" />
+      <workItem from="1520661710298" duration="19000" />
+      <workItem from="1520662792760" duration="1192000" />
+      <workItem from="1520737297711" duration="3139000" />
+      <workItem from="1520752693515" duration="1370000" />
+      <workItem from="1520777790034" duration="445000" />
+      <workItem from="1520783881221" duration="665000" />
+      <workItem from="1520850693067" duration="642000" />
+      <workItem from="1520904242451" duration="364000" />
+      <workItem from="1521104345363" duration="972000" />
+      <workItem from="1521114857302" duration="4138000" />
+      <workItem from="1521165828856" duration="4186000" />
+      <workItem from="1521181702967" duration="1177000" />
+      <workItem from="1521251855100" duration="765000" />
+      <workItem from="1521294987616" duration="1724000" />
+      <workItem from="1521373896633" duration="645000" />
+      <workItem from="1521433292775" duration="593000" />
+      <workItem from="1521463129737" duration="4581000" />
+      <workItem from="1521601219830" duration="5122000" />
+      <workItem from="1521627827665" duration="44000" />
+      <workItem from="1521870314350" duration="3265000" />
+      <workItem from="1522390098542" duration="4306000" />
+      <workItem from="1522410067999" duration="3009000" />
+      <workItem from="1522463580759" duration="2909000" />
+      <workItem from="1522634341805" duration="1434000" />
+      <workItem from="1522738428904" duration="2217000" />
+      <workItem from="1522763643551" duration="1019000" />
+      <workItem from="1522850050408" duration="4715000" />
+      <workItem from="1522891782732" duration="2018000" />
+      <workItem from="1522980118262" duration="1128000" />
+      <workItem from="1523065915926" duration="7064000" />
+      <workItem from="1523151315756" duration="2610000" />
+      <workItem from="1523154206211" duration="1034000" />
+      <workItem from="1523442283972" duration="1982000" />
+      <workItem from="1523490090746" duration="8210000" />
+      <workItem from="1523691264930" duration="181000" />
+      <workItem from="1524097013745" duration="2473000" />
+      <workItem from="1524187613533" duration="2304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91017000" />
+    <option name="totallyTimeSpent" value="761503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1370" height="772" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12629247" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937685" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17397882" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.183161" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2309434" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1170,11 +1189,11 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.244713" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2596006" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22895126" sideWeight="0.30966768" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22895126" sideWeight="0.69033235" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583964" sideWeight="0.17842324" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24583964" sideWeight="0.8215768" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1182,7 +1201,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32718894" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1194,7 +1213,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1202,419 +1223,535 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/common/dao/impl/BaseDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="33" column="57" lean-forward="true" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+        <state relative-caret-position="393">
+          <caret line="704" column="23" lean-forward="false" selection-start-line="704" selection-start-column="23" selection-end-line="704" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/webdefault.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="72" column="53" lean-forward="false" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/config/ProjectInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/article.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/po/TModulesEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/ModuleDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/po/TUsersRoleEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/dao/impl/ModuleDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/service/impl/ModuleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="59" lean-forward="false" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/abroad.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/detailExp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" column="46" lean-forward="false" selection-start-line="75" selection-start-column="46" selection-end-line="75" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="85" column="21" lean-forward="false" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/po/TTeacherBaseinfoEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3420">
-          <caret line="255" column="57" lean-forward="false" selection-start-line="255" selection-start-column="57" selection-end-line="255" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mvc-dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/GetBaseInfoDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/service/ModuleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/controller/ModuleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/BaseInfoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/BaseInfoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/system/po/VUserModulesEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="69" lean-forward="true" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/po/VUserModulesEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2356">
-          <caret line="172" column="57" lean-forward="false" selection-start-line="172" selection-start-column="57" selection-end-line="172" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/base.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122">
-          <caret line="125" column="92" lean-forward="false" selection-start-line="125" selection-start-column="84" selection-end-line="125" selection-end-column="92" />
+        <state relative-caret-position="298">
+          <caret line="28" column="66" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/GetBaseInfoDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/degree.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="228">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/EduDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/article/controller/ArticleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="140">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/EduDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/article/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/article/service/impl/ArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="35" column="15" lean-forward="false" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivity/controller/ActivityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="31" column="25" lean-forward="false" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivity/service/TeacherActivityService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/common/tool/DeleteTools.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivity/service/impl/TeacherActivityServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="97" column="50" lean-forward="false" selection-start-line="97" selection-start-column="50" selection-end-line="97" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/service/ProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/sciencePrize/dao/TEducateScientificEntityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/sciencePrize/dao/impl/TEducateScientificEntityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/sciencePrize/service/impl/SciencePrizeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivityCheck/po/TTeacherActivityEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="132" column="4" lean-forward="false" selection-start-line="132" selection-start-column="4" selection-end-line="140" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherActivityCheck/po/VTeachersActivityCheckEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/teacherActivityCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="111" lean-forward="false" selection-start-line="37" selection-start-column="95" selection-end-line="37" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/sciencePrizeCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="115" lean-forward="false" selection-start-line="40" selection-start-column="95" selection-end-line="40" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/teacherActivityCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7562">
+          <caret line="398" column="73" lean-forward="false" selection-start-line="398" selection-start-column="3" selection-end-line="398" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/admin_abilityProject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="117" lean-forward="false" selection-start-line="49" selection-start-column="95" selection-end-line="49" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/sciencePrizeCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9500">
+          <caret line="500" column="70" lean-forward="false" selection-start-line="500" selection-start-column="3" selection-end-line="500" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/admin_abilityProject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8113">
+          <caret line="427" column="79" lean-forward="false" selection-start-line="427" selection-start-column="4" selection-end-line="427" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherMaterials/controller/MaterialsController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/teacherMaterials/po/TTeachingMaterialEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/po/TEducationExperienceEntity.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/common/dao/impl/BaseDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="151">
+          <caret line="171" column="0" lean-forward="false" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/dao/impl/TScientificEntityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/admin_article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="826" column="0" lean-forward="false" selection-start-line="826" selection-start-column="0" selection-end-line="828" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/projectCheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4788">
+          <caret line="252" column="27" lean-forward="false" selection-start-line="252" selection-start-column="23" selection-end-line="252" selection-end-column="27" />
           <folding>
-            <element signature="e#579#580#0" expanded="false" />
-            <element signature="e#604#605#0" expanded="false" />
-            <element signature="e#641#642#0" expanded="false" />
-            <element signature="e#669#670#0" expanded="false" />
-            <element signature="e#742#743#0" expanded="false" />
-            <element signature="e#771#772#0" expanded="false" />
-            <element signature="e#815#816#0" expanded="false" />
-            <element signature="e#851#852#0" expanded="false" />
-            <element signature="e#922#923#0" expanded="false" />
-            <element signature="e#950#951#0" expanded="false" />
-            <element signature="e#992#993#0" expanded="false" />
-            <element signature="e#1026#1027#0" expanded="false" />
-            <element signature="e#1105#1106#0" expanded="false" />
-            <element signature="e#1137#1138#0" expanded="false" />
-            <element signature="e#1187#1188#0" expanded="false" />
-            <element signature="e#1229#1230#0" expanded="false" />
-            <element signature="e#1319#1320#0" expanded="false" />
-            <element signature="e#1356#1357#0" expanded="false" />
-            <element signature="e#1417#1418#0" expanded="false" />
-            <element signature="e#1469#1470#0" expanded="false" />
-            <element signature="e#1545#1546#0" expanded="false" />
-            <element signature="e#1575#1576#0" expanded="false" />
-            <element signature="e#1622#1623#0" expanded="false" />
-            <element signature="e#1660#1661#0" expanded="false" />
-            <element signature="e#1734#1735#0" expanded="false" />
-            <element signature="e#1763#1764#0" expanded="false" />
-            <element signature="e#1808#1809#0" expanded="false" />
-            <element signature="e#1844#1845#0" expanded="false" />
+            <marker date="1523497537920" expanded="true" signature="8575:8581" ph="&amp;nbsp;" />
+            <marker date="1523497537920" expanded="true" signature="8581:8587" ph="&amp;nbsp;" />
+            <marker date="1523497537920" expanded="true" signature="10107:10113" ph="&amp;nbsp;" />
+            <marker date="1523497537920" expanded="true" signature="10113:10119" ph="&amp;nbsp;" />
+            <marker date="1523497537920" expanded="true" signature="22878:22897" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="23026:23039" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="23132:23164" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="23426:23457" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="24228:24247" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="24376:24389" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="24482:24514" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="24776:24807" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="28461:28480" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="28609:28622" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="28715:28747" ph="..." />
+            <marker date="1523497537920" expanded="true" signature="29009:29040" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/DeleteEduExpDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/controller/ProjectController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="19">
+          <caret line="168" column="25" lean-forward="false" selection-start-line="168" selection-start-column="25" selection-end-line="168" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/BaseInfoController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/contrller/ProjectCheckController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="1919">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/service/impl/ProjectCheckServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/po/TScientificEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="67" lean-forward="false" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+        <state relative-caret-position="1615">
+          <caret line="121" column="10" lean-forward="false" selection-start-line="121" selection-start-column="10" selection-end-line="121" selection-end-column="10" />
+          <folding>
+            <element signature="e#875#876#0" expanded="false" />
+            <element signature="e#900#901#0" expanded="false" />
+            <element signature="e#933#934#0" expanded="false" />
+            <element signature="e#961#962#0" expanded="false" />
+            <element signature="e#1032#1033#0" expanded="false" />
+            <element signature="e#1061#1062#0" expanded="false" />
+            <element signature="e#1102#1103#0" expanded="false" />
+            <element signature="e#1138#1139#0" expanded="false" />
+            <element signature="e#1217#1218#0" expanded="false" />
+            <element signature="e#1249#1250#0" expanded="false" />
+            <element signature="e#1299#1300#0" expanded="false" />
+            <element signature="e#1341#1342#0" expanded="false" />
+            <element signature="e#1421#1422#0" expanded="false" />
+            <element signature="e#1452#1453#0" expanded="false" />
+            <element signature="e#1500#1501#0" expanded="false" />
+            <element signature="e#1540#1541#0" expanded="false" />
+            <element signature="e#1630#1631#0" expanded="false" />
+            <element signature="e#1667#1668#0" expanded="false" />
+            <element signature="e#1727#1728#0" expanded="false" />
+            <element signature="e#1779#1780#0" expanded="false" />
+            <element signature="e#1873#1874#0" expanded="false" />
+            <element signature="e#1912#1913#0" expanded="false" />
+            <element signature="e#1976#1977#0" expanded="false" />
+            <element signature="e#2032#2033#0" expanded="false" />
+            <element signature="e#2114#2115#0" expanded="false" />
+            <element signature="e#2147#2148#0" expanded="false" />
+            <element signature="e#2199#2200#0" expanded="false" />
+            <element signature="e#2243#2244#0" expanded="false" />
+            <element signature="e#2319#2320#0" expanded="false" />
+            <element signature="e#2349#2350#0" expanded="false" />
+            <element signature="e#2395#2396#0" expanded="false" />
+            <element signature="e#2433#2434#0" expanded="false" />
+            <element signature="e#2506#2507#0" expanded="false" />
+            <element signature="e#2535#2536#0" expanded="false" />
+            <element signature="e#2579#2580#0" expanded="false" />
+            <element signature="e#2615#2616#0" expanded="false" />
+            <element signature="e#2733#2734#0" expanded="false" />
+            <element signature="e#2783#2784#0" expanded="false" />
+            <element signature="e#3059#3060#0" expanded="false" />
+            <element signature="e#3106#3107#0" expanded="false" />
+            <element signature="e#3331#3332#0" expanded="false" />
+            <element signature="e#3360#3361#0" expanded="false" />
+            <element signature="e#3404#3405#0" expanded="false" />
+            <element signature="e#3440#3441#0" expanded="false" />
+            <element signature="e#3513#3514#0" expanded="false" />
+            <element signature="e#3542#3543#0" expanded="false" />
+            <element signature="e#3586#3587#0" expanded="false" />
+            <element signature="e#3622#3623#0" expanded="false" />
+            <element signature="e#3691#3692#0" expanded="false" />
+            <element signature="e#3718#3719#0" expanded="false" />
+            <element signature="e#3758#3759#0" expanded="false" />
+            <element signature="e#3790#3791#0" expanded="false" />
+            <element signature="e#3872#3873#0" expanded="false" />
+            <element signature="e#3905#3906#0" expanded="false" />
+            <element signature="e#3957#3958#0" expanded="false" />
+            <element signature="e#4001#4002#0" expanded="false" />
+            <element signature="e#4077#4078#0" expanded="false" />
+            <element signature="e#4107#4108#0" expanded="false" />
+            <element signature="e#4153#4154#0" expanded="false" />
+            <element signature="e#4191#4192#0" expanded="false" />
+            <element signature="e#4286#4287#0" expanded="false" />
+            <element signature="e#4325#4326#0" expanded="false" />
+            <element signature="e#4389#4390#0" expanded="false" />
+            <element signature="e#4445#4446#0" expanded="false" />
+            <element signature="e#4534#4535#0" expanded="false" />
+            <element signature="e#4570#4571#0" expanded="false" />
+            <element signature="e#4628#4629#0" expanded="false" />
+            <element signature="e#4678#4679#0" expanded="false" />
+            <element signature="e#4749#4750#0" expanded="false" />
+            <element signature="e#4777#4778#0" expanded="false" />
+            <element signature="e#4819#4820#0" expanded="false" />
+            <element signature="e#4853#4854#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/projectCheck/po/TChangeStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/projectCheck.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="107" column="6" lean-forward="false" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/AddEduExpDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/admin_article.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="51" />
+        <state relative-caret-position="1900">
+          <caret line="100" column="10" lean-forward="false" selection-start-line="78" selection-start-column="4" selection-end-line="100" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/EduService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/schedule.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/article.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11305">
+          <caret line="595" column="16" lean-forward="false" selection-start-line="595" selection-start-column="19" selection-end-line="597" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/teacherActivity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3591">
+          <caret line="189" column="21" lean-forward="false" selection-start-line="189" selection-start-column="21" selection-end-line="191" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1524098854781" expanded="true" signature="4529:4535" ph="&amp;nbsp;" />
+            <marker date="1524098854781" expanded="true" signature="4535:4541" ph="&amp;nbsp;" />
+            <marker date="1524098854781" expanded="true" signature="5213:5219" ph="&amp;nbsp;" />
+            <marker date="1524098854781" expanded="true" signature="5219:5225" ph="&amp;nbsp;" />
+            <marker date="1524098854781" expanded="true" signature="10316:10335" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="10464:10477" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="10570:10602" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="10864:10895" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="12973:12992" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="13121:13134" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="13227:13259" ph="..." />
+            <marker date="1524098854781" expanded="true" signature="13521:13552" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/AddEduExpDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/sciencePrize.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4769">
+          <caret line="251" column="23" lean-forward="false" selection-start-line="251" selection-start-column="23" selection-end-line="253" selection-end-column="21" />
+          <folding>
+            <marker date="1524098913831" expanded="true" signature="6422:6428" ph="&amp;nbsp;" />
+            <marker date="1524098913831" expanded="true" signature="6428:6434" ph="&amp;nbsp;" />
+            <marker date="1524098913831" expanded="true" signature="6901:6907" ph="&amp;nbsp;" />
+            <marker date="1524098913831" expanded="true" signature="6907:6913" ph="&amp;nbsp;" />
+            <marker date="1524098913831" expanded="true" signature="11921:11940" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="12069:12082" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="12175:12207" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="12469:12500" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="14568:14587" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="14716:14729" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="14822:14854" ph="..." />
+            <marker date="1524098913831" expanded="true" signature="15116:15147" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/abilityProject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="91" column="21" lean-forward="false" selection-start-line="91" selection-start-column="21" selection-end-line="91" selection-end-column="21" />
+          <folding>
+            <marker date="1524101982111" expanded="true" signature="7423:7429" ph="&amp;nbsp;" />
+            <marker date="1524101982111" expanded="true" signature="7429:7435" ph="&amp;nbsp;" />
+            <marker date="1524101982111" expanded="true" signature="7915:7921" ph="&amp;nbsp;" />
+            <marker date="1524101982111" expanded="true" signature="7921:7927" ph="&amp;nbsp;" />
+            <marker date="1524101982111" expanded="true" signature="12656:12675" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="12804:12817" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="12936:12968" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="13230:13261" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="15778:15797" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="15926:15939" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="16032:16064" ph="..." />
+            <marker date="1524101982111" expanded="true" signature="16326:16357" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/project.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3230">
+          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+          <folding>
+            <marker date="1524187976382" expanded="true" signature="7714:7720" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="7720:7726" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="8436:8442" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="8442:8448" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="9058:9064" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="9064:9070" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="10343:10349" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="10349:10355" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="10953:10959" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="10959:10965" ph="&amp;nbsp;" />
+            <marker date="1524187976382" expanded="true" signature="24258:24277" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="24406:24419" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="24512:24544" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="24806:24837" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="25657:25676" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="25805:25818" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="25911:25943" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="26205:26236" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="29583:29602" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="29731:29744" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="29837:29869" ph="..." />
+            <marker date="1524187976382" expanded="true" signature="30131:30162" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/po/TScientificEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1257">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/po/VProjectUserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/po/VProjectEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="120" column="10" lean-forward="false" selection-start-line="120" selection-start-column="10" selection-end-line="120" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/dao/impl/VProjectEntityDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="89" lean-forward="false" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/EditEduExpDao.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/dao/VProjectEntityDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="171">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/EditEduExpDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/dao/impl/TScientificEntityDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="20" column="82" lean-forward="false" selection-start-line="20" selection-start-column="82" selection-end-line="20" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/service/impl/EduServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/dao/impl/DeleteEduExpDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="117" lean-forward="false" selection-start-line="21" selection-start-column="117" selection-end-line="21" selection-end-column="117" />
+        <state relative-caret-position="-761">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/teachers/baseInfo.js">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/project/service/impl/ProjectServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="249" column="32" lean-forward="false" selection-start-line="249" selection-start-column="32" selection-end-line="249" selection-end-column="32" />
+        <state relative-caret-position="16">
+          <caret line="136" column="39" lean-forward="false" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jingguan/baseInfo/controller/EduController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

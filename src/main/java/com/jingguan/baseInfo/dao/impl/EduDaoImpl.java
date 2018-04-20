@@ -3,6 +3,7 @@ package com.jingguan.baseInfo.dao.impl;
 import com.jingguan.baseInfo.dao.EduDao;
 import com.jingguan.baseInfo.po.TEducationExperienceEntity;
 import com.jingguan.common.dao.impl.BaseDao;
+import com.jingguan.common.vo.Page;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.criterion.Restrictions;
@@ -15,13 +16,29 @@ import java.util.List;
  */
 @Repository("EduDao")
 public class EduDaoImpl extends BaseDao implements EduDao {
+
+
     @Override
     public List<TEducationExperienceEntity> loadEducationExp(int user_id) {
         Session session = getCurrentSession();
         Transaction transaction = session.beginTransaction();
 
-        List<TEducationExperienceEntity> eduExp = session.createCriteria(TEducationExperienceEntity.class).add(Restrictions.eq("user_id",user_id)).list();
+        List<TEducationExperienceEntity> eduExp = session.createCriteria(TEducationExperienceEntity.class).add(Restrictions.eq("userId",user_id)).list();
 //        System.out.println(eduExp.get(1).getSchool().toString());
         return eduExp;
+    }
+
+    @Override
+    public Page findEduExp(Page page) {
+        return listRecordsByCon(page, TEducationExperienceEntity.class);
+    }
+
+    @Override
+    public void inEdu(TEducationExperienceEntity tEducationExperienceEntity) {
+        Session session = getCurrentSession();
+        Transaction transaction = session.beginTransaction();
+
+        session.save(tEducationExperienceEntity);
+        transaction.commit();
     }
 }

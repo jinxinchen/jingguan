@@ -26,8 +26,7 @@ public class UserDaoImpl implements UserDao {
         Transaction trans = session.beginTransaction();
 
         List<TUsersEntity> user = session.createCriteria(TUsersEntity.class).add(Restrictions.eq("account",account)).add(Restrictions.eq("password",password)).list();
-        System.out.println("@@@");
-        System.out.println(user.get(0).getId());
+
         if(user.size() > 0){
             return user.get(0).getId();
         }else{

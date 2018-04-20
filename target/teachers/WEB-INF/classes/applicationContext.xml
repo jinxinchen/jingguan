@@ -10,22 +10,21 @@
         <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller" />
     </context:component-scan>
 
-    <import resource="classpath:spring-hibernate.xml"/>
-    <!--<import resource="classpath:mvc-dispatcher-servlet.xml"/>-->
-    <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
-        <property name="locations">
-            <list>
-                <value>classpath:config.properties</value>
-            </list>
-        </property>
-    </bean>
+
 
     <!--项目基本信息配置-->
-    <!--<bean id="projectInfo" class="com.jingguan.system.config.ProjectInfo">-->
-        <!--&lt;!&ndash;项目名称&ndash;&gt;-->
-        <!--<property name="projectName" value="teachers-man"/>-->
-        <!--<property name="startPrivilege" value="false"/>-->
-    <!--</bean>-->
+    <bean id="projectInfo" class="com.jingguan.system.config.ProjectInfo">
+        <!--项目名称-->
+        <property name="projectName" value="teachers"/>
+        <property name="startPrivilege" value="false"/>
+    </bean>
+
+
+    <!--表单提交含文件，表单提交的是request payload-->
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="defaultEncoding" value="UTF-8"></property>
+        <property name="maxInMemorySize" value="10240000"></property>
+    </bean>
 
     <!--<bean class="com.jingguan.system.filter.PrivilegeManageFilter" id="privilegeManageFilter"></bean>-->
 
@@ -37,4 +36,5 @@
     <!--<context:component-scan base-package="com.jingguan.*.dao.impl, com.jingguan.*.service.impl"/>-->
 
     <aop:aspectj-autoproxy/>
+
 </beans>

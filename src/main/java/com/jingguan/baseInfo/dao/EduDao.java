@@ -1,6 +1,7 @@
 package com.jingguan.baseInfo.dao;
 
 import com.jingguan.baseInfo.po.TEducationExperienceEntity;
+import com.jingguan.common.vo.Page;
 
 import java.util.List;
 
@@ -9,4 +10,6 @@ import java.util.List;
  */
 public interface EduDao {
     List<TEducationExperienceEntity> loadEducationExp(int user_id);
+    Page findEduExp(Page page);
+    void inEdu(TEducationExperienceEntity tEducationExperienceEntity);
 }

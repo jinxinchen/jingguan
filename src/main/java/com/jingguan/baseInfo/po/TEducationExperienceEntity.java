@@ -3,7 +3,7 @@ package com.jingguan.baseInfo.po;
 import javax.persistence.*;
 
 /**
- * Created by 陈 on 2017/10/18.
+ * Created by 陈 on 2017/12/10.
  */
 @Entity
 @Table(name = "t_education_experience", schema = "jg_teachers", catalog = "")
@@ -12,12 +12,15 @@ public class TEducationExperienceEntity {
     private String school;
     private String major;
     private String education;
-    private Integer graduationYear;
-    private Integer user_id;
+    private String graduationYear;
+    private Integer userId;
     private Integer status;
+    private String graduateCard;
+    private String degreeCard;
+    private String entrance;
 
     @Id
-    @Column(name = "id", nullable = false, length = 20)
+    @Column(name = "id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     public Integer getId() {
         return id;
@@ -59,22 +62,22 @@ public class TEducationExperienceEntity {
 
     @Basic
     @Column(name = "graduationYear")
-    public Integer getGraduationYear() {
+    public String getGraduationYear() {
         return graduationYear;
     }
 
-    public void setGraduationYear(Integer graduationYear) {
+    public void setGraduationYear(String graduationYear) {
         this.graduationYear = graduationYear;
     }
 
     @Basic
     @Column(name = "user_id")
-    public Integer getUser_id() {
-        return user_id;
+    public Integer getUserId() {
+        return userId;
     }
 
-    public void setUser_id(Integer user_id) {
-        this.user_id = user_id;
+    public void setUserId(Integer userId) {
+        this.userId = userId;
     }
 
     @Basic
@@ -85,6 +88,36 @@ public class TEducationExperienceEntity {
 
     public void setStatus(Integer status) {
         this.status = status;
+    }
+
+    @Basic
+    @Column(name = "graduate_card")
+    public String getGraduateCard() {
+        return graduateCard;
+    }
+
+    public void setGraduateCard(String graduateCard) {
+        this.graduateCard = graduateCard;
+    }
+
+    @Basic
+    @Column(name = "degree_card")
+    public String getDegreeCard() {
+        return degreeCard;
+    }
+
+    public void setDegreeCard(String degreeCard) {
+        this.degreeCard = degreeCard;
+    }
+
+    @Basic
+    @Column(name = "entrance")
+    public String getEntrance() {
+        return entrance;
+    }
+
+    public void setEntrance(String entrance) {
+        this.entrance = entrance;
     }
 
     @Override
@@ -100,8 +133,11 @@ public class TEducationExperienceEntity {
         if (education != null ? !education.equals(that.education) : that.education != null) return false;
         if (graduationYear != null ? !graduationYear.equals(that.graduationYear) : that.graduationYear != null)
             return false;
-        if (user_id != null ? !user_id.equals(that.user_id) : that.user_id != null) return false;
+        if (userId != null ? !userId.equals(that.userId) : that.userId != null) return false;
         if (status != null ? !status.equals(that.status) : that.status != null) return false;
+        if (graduateCard != null ? !graduateCard.equals(that.graduateCard) : that.graduateCard != null) return false;
+        if (degreeCard != null ? !degreeCard.equals(that.degreeCard) : that.degreeCard != null) return false;
+        if (entrance != null ? !entrance.equals(that.entrance) : that.entrance != null) return false;
 
         return true;
     }
@@ -113,8 +149,11 @@ public class TEducationExperienceEntity {
         result = 31 * result + (major != null ? major.hashCode() : 0);
         result = 31 * result + (education != null ? education.hashCode() : 0);
         result = 31 * result + (graduationYear != null ? graduationYear.hashCode() : 0);
-        result = 31 * result + (user_id != null ? user_id.hashCode() : 0);
+        result = 31 * result + (userId != null ? userId.hashCode() : 0);
         result = 31 * result + (status != null ? status.hashCode() : 0);
+        result = 31 * result + (graduateCard != null ? graduateCard.hashCode() : 0);
+        result = 31 * result + (degreeCard != null ? degreeCard.hashCode() : 0);
+        result = 31 * result + (entrance != null ? entrance.hashCode() : 0);
         return result;
     }
 }

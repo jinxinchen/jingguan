@@ -5,6 +5,7 @@ import com.jingguan.common.vo.Page;
 import org.hibernate.Criteria;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.criterion.Criterion;
 import org.hibernate.criterion.Order;
@@ -146,8 +147,9 @@ public class BaseDao<T> {
         Page.FilterModel filterModel = page.getFilterModel();
         Page.SortPairModule sortPairModule = page.getSortPairModule();
 
-
-        Criteria criteria = sessionFactory.getCurrentSession().createCriteria(t);
+        Session session = getCurrentSession();
+        Transaction transaction = session.beginTransaction();
+        Criteria criteria = session.createCriteria(t);
         //根据字段搜索
         //criteria.add(complicateSearchOptionAdd(searchField, searchObj, searchOper));
         criteria.add(complicateSearchOptionAdd(filterModel, t));
@@ -172,7 +174,9 @@ public class BaseDao<T> {
 
 
         //查询记录总记录数
-        Criteria criteria1 = sessionFactory.getCurrentSession().createCriteria(t);
+        Session session1 = getCurrentSession();
+        Transaction transaction1 = session1.beginTransaction();
+        Criteria criteria1 = session1.createCriteria(t);
         //criteria.add(complicateSearchOptionAdd(searchField, searchObj, searchOper));
         criteria1.add(complicateSearchOptionAdd(filterModel, t));
 

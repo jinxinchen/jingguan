@@ -18,7 +18,7 @@ public class AddEduExpDaoImpl extends BaseDao implements AddEduExpDao{
 
 
     @Override
-    public int addEduExp(Integer user_id, String school, String major, String education, Integer graduationYear) {
+    public int addEduExp(Integer user_id, String school, String major, String education,String entrance, String graduationYear) {
 //        Map map = new HashMap();
         Session session = getCurrentSession();
         Transaction transaction = session.beginTransaction();
@@ -27,8 +27,10 @@ public class AddEduExpDaoImpl extends BaseDao implements AddEduExpDao{
         tEducationExperienceEntity.setSchool(school);
         tEducationExperienceEntity.setMajor(major);
         tEducationExperienceEntity.setEducation(education);
+        tEducationExperienceEntity.setEntrance(entrance);
         tEducationExperienceEntity.setGraduationYear(graduationYear);
-        tEducationExperienceEntity.setUser_id(user_id);
+        tEducationExperienceEntity.setUserId(user_id);
+        tEducationExperienceEntity.setStatus(1);
         try {
             session.save(tEducationExperienceEntity);
             transaction.commit();
